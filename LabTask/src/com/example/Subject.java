@@ -1,3 +1,5 @@
+package LabTask.src.com.example;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -17,6 +19,11 @@ public class Subject {
 
    public void attach(Observer observer){
       observers.add(observer);		
+   }
+
+   // Method to detach an observer
+   public void detach(Observer observer) {
+      observers.remove(observer);
    }
 
    public void notifyAllObservers(){

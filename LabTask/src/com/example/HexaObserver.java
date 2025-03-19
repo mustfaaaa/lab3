@@ -1,3 +1,4 @@
+package LabTask.src.com.example;
 public class HexaObserver extends Observer{
 
     public HexaObserver(Subject subject){

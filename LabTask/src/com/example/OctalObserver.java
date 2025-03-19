@@ -1,3 +1,5 @@
+package LabTask.src.com.example;
+
 public class OctalObserver extends Observer{
 
     public OctalObserver(Subject subject){
