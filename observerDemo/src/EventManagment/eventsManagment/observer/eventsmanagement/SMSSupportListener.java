@@ -1,4 +1,4 @@
-package observerDemo.src.EventManagment.eventsManagment;
+package observerDemo.src.EventManagment.eventsManagment.observer.eventsmanagement;
 
 import java.io.*;
 
