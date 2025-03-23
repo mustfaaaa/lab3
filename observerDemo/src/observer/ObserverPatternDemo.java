@@ -1,4 +1,4 @@
-package observerDemo.src;
+package observerDemo.src.observer;
 
 
 public class ObserverPatternDemo {
@@ -39,3 +39,4 @@ public class ObserverPatternDemo {
       // - BinaryObserver: "Binary String: 1010"
       // - OctalObserver: "Octal String: 12"
       // HexaObserver won't display anything since it's detached.
+   }}
