@@ -1,4 +1,5 @@
-package LabTask.src.com.example;
+package observerDemo.src;
+
 
 public class ObserverPatternDemo {
    public static void main(String[] args) {

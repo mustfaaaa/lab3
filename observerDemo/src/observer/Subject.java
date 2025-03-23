@@ -1,4 +1,5 @@
-package LabTask.src.com.example;
+package observerDemo.src;
+
 
 import java.util.ArrayList;
 import java.util.List;

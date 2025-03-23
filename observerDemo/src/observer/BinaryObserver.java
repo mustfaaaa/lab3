@@ -1,4 +1,5 @@
-package LabTask.src.com.example;
+package observerDemo.src;
+
 public class BinaryObserver extends Observer{
 
     public BinaryObserver(Subject subject){

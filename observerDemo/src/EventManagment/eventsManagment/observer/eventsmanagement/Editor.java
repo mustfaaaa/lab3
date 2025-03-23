@@ -1,4 +1,4 @@
-package observer.eventsmanagement;
+package observerDemo.src.EventManagment.eventsManagment.observer.eventsmanagement;
 
 
 import java.io.File;

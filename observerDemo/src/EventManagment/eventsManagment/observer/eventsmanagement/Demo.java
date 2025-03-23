@@ -1,4 +1,4 @@
-public package observer.eventsmanagement;
+package observerDemo.src.EventManagment.eventsManagment.observer.eventsmanagement;
 
 public class Demo {
 
